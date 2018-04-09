@@ -1,1 +1,3 @@
 # SimpleAsteroids
+
+Requires Greenfoot software.
